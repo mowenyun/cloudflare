@@ -1,0 +1,4 @@
+name = "emui"
+main = "cloudflare/_worker.js"
+compatibility_date = "2026-01-28"
+keep_vars = true
